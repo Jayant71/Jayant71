@@ -11,14 +11,14 @@
 - 👨‍💻 All of my projects are available at [My Portfolio](https://your-portfolio-link.com)
 - 📫 How to reach me **jayant.07124@gmail.com**
 - 💬 Ask me about **Machine Learning, Deep Learning, Computer Vision, Flutter Development**
-- 📝 I regularly write articles on [Medium](https://medium.com/@jayant.0712)
+- 📝 I regularly write articles on [Medium](https://medium.com/@jayant.07124)
 
 ---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jayantpatel71" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" height="30" width="30" /></a>
-<a href="https://medium.com/@jayant.0712" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="Medium" height="30" width="30" /></a>
+<a href="https://medium.com/@jayant.07124" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="Medium" height="30" width="30" /></a>
 <a href="https://twitter.com/jayant_71" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="Twitter" height="30" width="30" /></a>
 
 </p>
