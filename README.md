@@ -7,12 +7,11 @@
 
 ---
 
-- 🔭 I’m currently working on [Real-Time PPE Detection](https://github.com/your-repo-link)
 - 🌱 I’m currently learning **Clean Architecture with Flutter Bloc & TDD**
 - 👨‍💻 All of my projects are available at [My Portfolio](https://your-portfolio-link.com)
 - 📫 How to reach me **jayant.07124@gmail.com**
 - 💬 Ask me about **Machine Learning, Deep Learning, Computer Vision, Flutter Development**
-- 📝 I regularly write articles on [Medium](https://medium.com/@your-username)
+- 📝 I regularly write articles on [Medium](https://medium.com/@jayant.0712)
 
 ---
 
@@ -55,11 +54,11 @@
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/> 
   </a> 
-  </a> 
+ 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
     <img src=" https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="Arduino" width="40" height="40"/> 
   </a> 
-  </a> 
+  
   
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-original.svg" alt="Ubuntu" width="40" height="40"/> 
@@ -78,7 +77,7 @@
     <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/> 
   </a>
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> 
-    <img src="[https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg](https://www.vectorlogo.zone/logos/docker/docker-official.svg)" alt="Docker" width="40" height="40"/> 
+    <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="Docker" width="40" height="40"/> 
   </a>
   
 </p>
