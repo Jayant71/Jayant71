@@ -54,19 +54,12 @@
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/> 
   </a> 
- 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src=" https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="Arduino" width="40" height="40"/> 
-  </a> 
-  
-  
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-original.svg" alt="Ubuntu" width="40" height="40"/> 
   </a> 
    <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="40" height="40"/> 
-  </a>
-    
+  </a> 
   <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VSCode" width="40" height="40"/> 
   </a>
@@ -78,8 +71,7 @@
   </a>
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="Docker" width="40" height="40"/> 
-  </a>
-  
+  </a>  
 </p>
 
 ---
