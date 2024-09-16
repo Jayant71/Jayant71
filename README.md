@@ -7,11 +7,11 @@
 
 ---
 
-- 🌱 I’m currently learning **Clean Architecture with Flutter Bloc & TDD**
-- 👨‍💻 All of my projects are available at [My Portfolio](https://your-portfolio-link.com)
+- 🌱 I’m currently learning **Clean Architecture with Flutter Bloc**
+<!-- - 👨‍💻 All of my projects are available at [My Portfolio](https://your-portfolio-link.com) -->
 - 📫 How to reach me **jayant.07124@gmail.com**
 - 💬 Ask me about **Machine Learning, Deep Learning, Computer Vision, Flutter Development**
-- 📝 I regularly write articles on [Medium](https://medium.com/@jayant.07124)
+<!-- - 📝 I regularly write articles on [Medium](https://medium.com/@jayant.07124) -->
 
 ---
 
