@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jayant Patel</h1>
-<h3 align="center">A Passionate AI/ML Enthusiast & Flutter Developer</h3>
+<h3 align="center">A Passionate AI/ML Enthusiast & Android Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Jayant07124&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -7,10 +7,10 @@
 
 ---
 
-- 🌱 I’m currently learning **Clean Architecture with Flutter Bloc**
+- 🌱 I’m currently learning **Jetpack Compose for Kotlin**
 <!-- - 👨‍💻 All of my projects are available at [My Portfolio](https://your-portfolio-link.com) -->
 - 📫 How to reach me **jayant.07124@gmail.com**
-- 💬 Ask me about **Machine Learning, Deep Learning, Computer Vision, Flutter Development**
+- 💬 Ask me about **Machine Learning, Deep Learning, Android Development**
 <!-- - 📝 I regularly write articles on [Medium](https://medium.com/@jayant.07124) -->
 
 ---
