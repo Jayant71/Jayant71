@@ -8,10 +8,8 @@
 ---
 
 - 🌱 I’m currently learning **Jetpack Compose for Kotlin**
-<!-- - 👨‍💻 All of my projects are available at [My Portfolio](https://your-portfolio-link.com) -->
 - 📫 How to reach me **jayant.07124@gmail.com**
 - 💬 Ask me about **Machine Learning, Deep Learning, Android Development**
-<!-- - 📝 I regularly write articles on [Medium](https://medium.com/@jayant.07124) -->
 
 ---
 
