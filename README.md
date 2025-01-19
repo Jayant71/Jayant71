@@ -8,7 +8,7 @@
 ---
 
 - 🌱 I’m currently learning **Jetpack Compose for Kotlin**
-- 📫 How to reach me **jayant.07124@gmail.com**
+- 📫 How to reach me **jayant.patel.work@gmail.com**
 - 💬 Ask me about **Machine Learning, Deep Learning, Android Development**
 
 ---
