@@ -15,7 +15,7 @@
 <!-- - 🔭 I'm currently working on **[Current Project Name]** -->
 - 🌱 I'm currently learning **Jetpack Compose for Kotlin**
 - 👯 I'm looking to collaborate on **Android and AI/ML Projects**
-- 📫 Reach me at **jayant.patel.work@gmail.com**
+- 📫 Reach me at **jayant.07124@gmail.com**
 - 💬 Ask me about **Machine Learning, Deep Learning, Android Development**
 - ⚡ Fun fact: **I'm always up for a good hackathon challenge!**
 
