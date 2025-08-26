@@ -13,11 +13,11 @@
 ### 👨‍💻 About Me
 
 <!-- - 🔭 I'm currently working on **[Current Project Name]** -->
-- 🌱 I'm currently learning **Jetpack Compose for Kotlin**
-- 👯 I'm looking to collaborate on **Android and AI/ML Projects**
+- 🌱 Building **AI Agents** for real-world problem solving.
+- 👯 I'm looking to collaborate on **AI/ML Projects**
 - 📫 Reach me at **jayant.07124@gmail.com**
 - 💬 Ask me about **Machine Learning, Deep Learning, Android Development**
-- ⚡ Fun fact: **I'm always up for a good hackathon challenge!**
+- ⚡ Vibe Coder **Github Copilot, Loveable, Gemini CLI**
 
 <!-- ### 🏆 Achievements
 - [Add your achievements here]
