@@ -1,105 +1,78 @@
 <!-- <div align="center">
-  <img src="[Need a banner image URL]" alt="Banner" width="100%"/>
+  <img src="[Add a sleek banner if you have one]" width="100%"/>
 </div> -->
 
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Jayant Patel</h1>
-<h3 align="center">A Passionate AI/ML Enthusiast & Android Developer from India 🇮🇳</h3>
+<h3 align="center">AI Agent Developer | Machine Learning Engineer | Deep Learning</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Jayant71&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  <a href="https://jayant71.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=flat&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Jayant71&label=Profile%20views&color=0e75b6&style=flat" />
+  <a href="https://jayantpatel.in"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=flat&logo=google-chrome&logoColor=white"/></a>
 </p>
 
-### 👨‍💻 About Me
+---
 
-<!-- - 🔭 I'm currently working on **[Current Project Name]** -->
-- 🌱 Building **AI Agents** for real-world problem solving.
-- 👯 I'm looking to collaborate on **AI/ML Projects**
-- 📫 Reach me at **jayant.07124@gmail.com**
-- 💬 Ask me about **Machine Learning, Deep Learning, Android Development**
-- ⚡ Vibe Coder **Github Copilot, Loveable, Gemini CLI**
+### 👨‍💻 About Me  
+- 🤖 Currently building **AI Agents** for **workflow automation & intelligent decision-making**
+- 🔍 Exploring **LLM-powered reasoning**, **RAG systems**, and **adaptive tool-use agents**
+- 🧠 Strong focus on: **Machine Learning · Deep Learning · Prompt Engineering**
+- 🤝 Open to collaborating on **AI Agent Systems**, **ML Research**, and **Open-Source AI tools**
+- 📧 Reach me at: **jayant.07124@gmail.com**
+- ⚡ Fun Fact: I prototype faster than I explain 😄
 
-<!-- ### 🏆 Achievements
-- [Add your achievements here]
-- [Hackathon wins, certifications, etc.] -->
+---
 
-### 🛠️ Tech Stack
+### 🧠 I Work With
 <p align="center">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> 
-  </a> 
-  <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> 
-  </a>
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/> 
-  </a> 
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/> 
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/> 
-  </a> 
-   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg" alt="Anaconda" width="40" height="40"/> 
-  </a> 
-   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-original.svg" alt="Ubuntu" width="40" height="40"/> 
-  </a> 
-   <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="40" height="40"/> 
-  </a> 
-  <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VSCode" width="40" height="40"/> 
-  </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/> 
-  </a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/> 
-  </a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="Docker" width="40" height="40"/> 
-  </a>  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/langchain-ai/langchain/refs/heads/master/.github/images/logo-light.svg" alt="LangChain" width="90" height="90"/>
+  <img src="https://github.com/n8n-io/n8n/blob/master/assets/n8n-logo.png" alt="n8n" width="90" height="90"/>
+  <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" alt="React"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" alt="TypeScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="40" alt="FastAPI"/>
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/>
+  <img src="https://user-images.githubusercontent.com/8291514/213727225-56186826-bee8-43b5-9b15-86e839d89393.png#gh-dark-mode-only" width="190" height="90" alt="Supabase"/>
 </p>
 
-### 📊 GitHub Statistics
+---
 
+### 🛠️ Previously Worked In (still useful)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jayant71&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="55"/>
+  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40"/>
 </p>
 
+---
+
+### 🚀 Current Focus
+- Building **Autonomous AI Agents**
+- Creating **RAG + Vector DB pipelines**
+- Training / Finetuning **LLMs & Vision Models**
+
+---
+
+### 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jayant71&theme=tokyonight" alt="GitHub Summary" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jayant71&show_icons=true&theme=tokyonight" width="48%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jayant71&theme=tokyonight" width="48%"/>
 </p>
 
-<!-- ### 📌 Featured Projects
-- [Project 1 Name](URL) - Brief description
-- [Project 2 Name](URL) - Brief description
-- [Project 3 Name](URL) - Brief description
+---
 
-### 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- Add your blog posts here -->
-<!-- BLOG-POST-LIST:END --> 
-
-<h3 align="left">Connect with me:</h3>
+### 🌐 Connect with Me
 <p align="left">
-<a href="https://linkedin.com/in/jayantpatel71" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" height="30" width="30" /></a>
-<a href="https://medium.com/@jayant.07124" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="Medium" height="30" width="30" /></a>
-<a href="https://twitter.com/jayant_71" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="Twitter" height="30" width="30" /></a>
-<a href="https://t.me/lemonstealin" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="Telegram" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/jayantpatel71"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="30"/></a>
+<a href="https://medium.com/@jayant.07124"><img src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" width="30"/></a>
+<a href="https://twitter.com/jayant_71"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" width="30"/></a>
+<a href="https://t.me/lemonstealin"><img src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" width="30"/></a>
 </p>
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-</div>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+</p>
